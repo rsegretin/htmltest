@@ -2,4 +2,4 @@
 
 ## Contenido
 
-Esta es una prueba más de git
+Esta es una prueba más de git y ya.
